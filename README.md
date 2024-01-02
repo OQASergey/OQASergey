@@ -11,7 +11,7 @@
   </a>
 </div>
 <div id="resume" align="center">
-	<a href="">
+	<a href="https://github.com/OQASergey/OQASergey/tree/main/resume.pdf" download>
 		<img src="https://img.shields.io/badge/My Resume-green?style=for-the-badge&logo=doc&logoColor=white"
 	</a>
 </div>
