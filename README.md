@@ -7,8 +7,13 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/EMail-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/EMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Telegram"/>
   </a>
+</div>
+<div id="resume" align="center">
+	<a href="">
+		<img src="https://img.shields.io/badge/My Resume-grean?style=for-the-badge&logo=doc&logoColor=white"
+	</a>
 </div>
 
 ---
