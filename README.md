@@ -3,16 +3,16 @@
   <h3>Я - инженер по тестированию из Самары</h3>
 </div>
 <div id="socias" align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:sergey.qa.63@gmail.com">
-    <img src="https://img.shields.io/badge/EMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Telegram"/>
-  </a>
+	<a href="" style="text-decoration: none;">
+    		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+	<a href="mailto:sergey.qa.63@gmail.com">
+    		<img src="https://img.shields.io/badge/EMail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Telegram"/>
+	</a>
 </div>
 <div id="resume" align="center">
 	<a href="https://github.com/OQASergey/OQASergey/raw/main/resume.pdf" download>
-		<img src="https://img.shields.io/badge/My Resume-green?style=for-the-badge&logo=doc&logoColor=white"
+		<img src="https://img.shields.io/badge/Моё Резюме-green?style=for-the-badge&logo=doc&logoColor=white"
 	</a>
 </div>
 
