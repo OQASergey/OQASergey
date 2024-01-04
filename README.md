@@ -44,7 +44,7 @@
 - SQLite<br>
 - Android Studio (SDK)<br>
 - Chrome DevTools<br>
--  CLI (smd)<br>
+- CLI (smd)<br>
 - Git Bash<br>
 - PyCharm<br>
 - SoapUI<br>
@@ -53,7 +53,8 @@
 ---
 ### Проекты по тестированию:
 
-- **[Автоматизации на Postman'е](https://github.com/OQASergey/Postman-Automation#readme)** - Smoke-тестироване основных функций для нескольких проектов. Автоматизация на основе JS внутри postman'а (цепочки запросов с использованием спарсенных из тела ответа или сгенерированных перед запросом переменных).<br>
+- **[Автоматизации на Postman'е (Booker)](https://github.com/OQASergey/Restful_Booking-automation_Postman#readme)** - Автоматизированное (на основе JS) smoke-тестирование основных функций для веб-сервиса бронирования отелей.<br>
+- **[Автоматизации на Postman'е (Nazina's Shop)](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman#readme)** - Автоматизированное (на основе JS) smoke-тестирование основных функций для учебного интернет-магазина одежды О. Назиной.<br>
 - **[Booker_Testing](https://github.com/OQASergey/Restful-Booker_Testing#readme)** - Чек-листы, список дефектов и улучшений для веб-сервиса бронирования отелей.<br>
 - **[Nazina's_Shop_Testing](https://github.com/OQASergey/Nazinas_Shop_Testing#readme)** - Чек-листы, список багов и улучшений для учебного интернет-магазина одежды О. Назиной.<br>
 
