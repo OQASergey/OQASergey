@@ -34,26 +34,28 @@
 
 ---
 
-### Программы, с которыми работаю:<br>
-- Jira<br>
-- Redmine<br>
-- Trello<br>
-- MySQL<br>
-- Oracle<br>
-- SQLite<br>
-- Android Studio (SDK)<br>
-- Chrome DevTools<br>
-- CLI (smd)<br>
-- Git Bash<br>
-- PyCharm<br>
-- SoapUI<br>
-- Postman (в том числе автоматизация на основе js с выводом в логи консоли результатов тестов)
+### Программы и сервисы, с которыми работаю:<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" title="jira" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" title="trello" height="70"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="oracle" height="70"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" height="70"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" title="andstudio" height="70"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" height="70"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="github" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" title="pytest" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" height="60"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="selenium" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/qajenna/qajenna/main/icons/DBeaver.png" title="dbeaver" height="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/qajenna/qajenna/main/icons/Postman.png" title="postman" height="60"/>&nbsp;
+<img src="https://github.com/qajenna/qajenna/raw/main/icons/swagger.png" title="swagger" height="60"/>&nbsp;
 
 ---
 ### Проекты по тестированию:
 
 - **[Автоматизации на Postman'е (Booker)](https://github.com/OQASergey/Restful_Booking-automation_Postman#readme)** - Автоматизированное (на основе JS) smoke-тестирование основных функций для веб-сервиса бронирования отелей.<br>
 - **[Автоматизации на Postman'е (Nazina's Shop)](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman#readme)** - Автоматизированное (на основе JS) smoke-тестирование основных функций для учебного интернет-магазина одежды О. Назиной.<br>
+- **[Автоматизации на Python'е (The Veil Project)](https://github.com/OQASergey/The_Veil_site_func_tests/tree/master)** - Автоматизированное (на основе Selene) тестирование функциональности активных элементов для сайта по нри-pbta "The Veil".
 - **[Booker_Testing](https://github.com/OQASergey/Restful-Booker_Testing#readme)** - Чек-листы, список дефектов и улучшений для веб-сервиса бронирования отелей.<br>
 - **[Nazina's_Shop_Testing](https://github.com/OQASergey/Nazinas_Shop_Testing#readme)** - Чек-листы, список багов и улучшений для учебного интернет-магазина одежды О. Назиной.<br>
 
