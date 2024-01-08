@@ -4,18 +4,17 @@
 </div>
 <div id="socias" align="center">
 	<a href="">
-    		<img style="color-accent-fg: #fff" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/tg.png" alt="Telegram"/>
 	</a>
 	<a href="mailto:sergey.qa.63@gmail.com">
-    		<img src="https://img.shields.io/badge/EMail-red?style=for-the-badge&logo=maildotru&logoColor=white" alt="Mail"/>
+    		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/ml.png" alt="Mail"/>
 	</a>
 </div>
 <div id="resume" align="center">
 	<a href="https://github.com/OQASergey/OQASergey/raw/main/resume.pdf" download>
-		<img src="https://img.shields.io/badge/Моё Резюме-228B22?style=for-the-badge&logo=docusign&logoColor=white"
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/rm.png" Alt="Resume"/>
 	</a>
 </div>
-
 
 ---
 ### Навыки:
