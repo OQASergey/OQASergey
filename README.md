@@ -35,20 +35,53 @@
 ---
 
 ### Программы и сервисы, с которыми работаю:<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" title="jira" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" title="trello" height="70"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="oracle" height="70"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" height="70"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" title="andstudio" height="70"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" height="70"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="github" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" title="pytest" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="selenium" height="50"/>&nbsp;
-<img src="https://raw.githubusercontent.com/qajenna/qajenna/main/icons/DBeaver.png" title="dbeaver" height="60"/>&nbsp;
-<img src="https://raw.githubusercontent.com/qajenna/qajenna/main/icons/Postman.png" title="postman" height="60"/>&nbsp;
-<img src="https://github.com/qajenna/qajenna/raw/main/icons/swagger.png" title="swagger" height="60"/>&nbsp;
+<p align="left" dir="auto">
+	<a href="https://www.atlassian.com/software/jira">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/jira.png" title="jira" height="60"/>
+	</a>
+	<a href="https://trello.com/">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/trello.png" title="trello" height="60"/>
+	</a>
+	<a href="https://www.oracle.com/">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/oracle.png" title="oracle" height="60"/>
+	</a>
+	<a href="https://sqlite.org/index.html">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/sqlite.png" title="sqlite" height="60"/>
+	</a>
+	<a href="https://developer.android.com/studio">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/andstudio.png" title="andstudio" height="60"/>
+	</a>
+	<a href="https://developer.chrome.com/docs/devtools?hl=ru">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/devtools.png" title="devtools" height="60"/>
+	</a>
+	<a href="https://git-scm.com/">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/git.png" title="git" height="60"/>
+	</a>
+	<a href="https://github.com/OQASergey">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/github.png" title="github" height="60"/>
+	</a>
+	<a href="https://docs.pytest.org/en/7.4.x/">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/pytest.png" title="pytest" height="60"/>
+	</a>
+	<a href="https://www.jetbrains.com/pycharm/">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/pycharm.png" title="pycharm" height="60"/>
+	</a>
+	<a href="https://www.selenium.dev/documentation/webdriver/">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/selenium.png" title="selenium" height="60"/>
+	</a>
+	<a href="https://dbeaver.io/">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/dbeaver.png" title="dbeaver" height="60"/>
+	</a>
+	<a href="https://www.postman.com/">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/postman.png" title="postman" height="60"/>
+	</a>
+	<a href="https://swagger.io/">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/swagger.png" title="swagger" height="60"/>
+	</a>
+	<a href="https://www.soapui.org/">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/soapui.png" title="soapui" height="60"/>
+	</a>
+</p>
 
 ---
 ### Проекты по тестированию:
