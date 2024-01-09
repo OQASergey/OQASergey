@@ -3,7 +3,7 @@
   <h3>Я - инженер по тестированию из Самары</h3>
 </div>
 <div id="socias" align="center">
-	<a href="">
+	<a href="https://t.me/Lapchatiy_Kys">
     		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/tg.png" alt="Telegram"/>
 	</a>
 	<a href="mailto:sergey.qa.63@gmail.com">
