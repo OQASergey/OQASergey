@@ -36,7 +36,7 @@
 
 ### Программы и сервисы, с которыми работаю:<br>
 <p align="left" dir="auto">
-	<a href="https://www.atlassian.com/software/jira" target="_blank">
+	<a href="https://www.atlassian.com/software/jira">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/jira.png" title="jira" height="60"/>
 	</a>
 	<a href="https://trello.com/">
