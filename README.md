@@ -36,49 +36,49 @@
 
 ### Программы и сервисы, с которыми работаю:<br>
 <p align="left" dir="auto">
-	<a href="https://www.atlassian.com/software/jira">
+	<a href="https://www.atlassian.com/software/jira" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/jira.png" title="jira" height="60"/>
 	</a>
-	<a href="https://trello.com/">
+	<a href="https://trello.com/" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/trello.png" title="trello" height="60"/>
 	</a>
-	<a href="https://www.oracle.com/">
+	<a href="https://www.oracle.com/" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/oracle.png" title="oracle" height="60"/>
 	</a>
-	<a href="https://sqlite.org/index.html">
+	<a href="https://sqlite.org/index.html" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/sqlite.png" title="sqlite" height="60"/>
 	</a>
-	<a href="https://developer.android.com/studio">
+	<a href="https://developer.android.com/studio" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/andstudio.png" title="andstudio" height="60"/>
 	</a>
-	<a href="https://developer.chrome.com/docs/devtools?hl=ru">
+	<a href="https://developer.chrome.com/docs/devtools?hl=ru" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/devtools.png" title="devtools" height="60"/>
 	</a>
-	<a href="https://git-scm.com/">
+	<a href="https://git-scm.com/" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/git.png" title="git" height="60"/>
 	</a>
-	<a href="https://github.com/OQASergey">
+	<a href="https://github.com/OQASergey" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/github.png" title="github" height="60"/>
 	</a>
-	<a href="https://docs.pytest.org/en/7.4.x/">
+	<a href="https://docs.pytest.org/en/7.4.x/" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/pytest.png" title="pytest" height="60"/>
 	</a>
-	<a href="https://www.jetbrains.com/pycharm/">
+	<a href="https://www.jetbrains.com/pycharm/" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/pycharm.png" title="pycharm" height="60"/>
 	</a>
-	<a href="https://www.selenium.dev/documentation/webdriver/">
+	<a href="https://www.selenium.dev/documentation/webdriver/" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/selenium.png" title="selenium" height="60"/>
 	</a>
-	<a href="https://dbeaver.io/">
+	<a href="https://dbeaver.io/" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/dbeaver.png" title="dbeaver" height="60"/>
 	</a>
-	<a href="https://www.postman.com/">
+	<a href="https://www.postman.com/" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/postman.png" title="postman" height="60"/>
 	</a>
-	<a href="https://swagger.io/">
+	<a href="https://swagger.io/" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/swagger.png" title="swagger" height="60"/>
 	</a>
-	<a href="https://www.soapui.org/">
+	<a href="https://www.soapui.org/" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/soapui.png" title="soapui" height="60"/>
 	</a>
 </p>
