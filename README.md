@@ -88,7 +88,7 @@
 
 - **[Автоматизации на Postman'е (Booker)](https://github.com/OQASergey/Restful_Booking-automation_Postman#readme)** - Автоматизированное (на основе JS) smoke-тестирование основных функций для веб-сервиса бронирования отелей.<br>
 - **[Автоматизации на Postman'е (Nazina's Shop)](https://github.com/OQASergey/Nazina-s_Shop-automation_Postman#readme)** - Автоматизированное (на основе JS) smoke-тестирование основных функций для учебного интернет-магазина одежды О. Назиной.<br>
-- **[Автоматизации на Python'е (The Veil Project)](https://github.com/OQASergey/The_Veil_site_func_tests/tree/master)** - Автоматизированное (на основе Selene) тестирование функциональности активных элементов для сайта по нри-pbta "The Veil".
+- **[Автоматизации на Python'е (The Veil Project)](https://github.com/OQASergey/The_Veil_site_func_tests/tree/master#readme)** - Автоматизированное (на основе Selene) тестирование функциональности активных элементов для сайта по нри-pbta "The Veil".
 - **[Booker_Testing](https://github.com/OQASergey/Restful-Booker_Testing#readme)** - Чек-листы, список дефектов и улучшений для веб-сервиса бронирования отелей.<br>
 - **[Nazina's_Shop_Testing](https://github.com/OQASergey/Nazinas_Shop_Testing#readme)** - Чек-листы, список багов и улучшений для учебного интернет-магазина одежды О. Назиной.<br>
 
