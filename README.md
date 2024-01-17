@@ -4,15 +4,15 @@
 </div>
 <div id="socias" align="center">
 	<a href="https://t.me/Lapchatiy_Kys">
-    		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/tg.png" alt="Telegram"/>
+    		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/tg.png" alt="Telegram" height="30"/>
 	</a>
 	<a href="mailto:sergey.qa.63@gmail.com">
-    		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/ml.png" alt="Mail"/>
+    		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/ml.png" alt="Mail" height="30"/>
 	</a>
 </div>
 <div id="resume" align="center">
 	<a href="https://github.com/OQASergey/OQASergey/raw/main/OQASergey's_resume.pdf" download>
-		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/rm.png" Alt="Resume"/>
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/rm.png" Alt="Resume" height="30"/>
 	</a>
 </div>
 
@@ -24,7 +24,7 @@
 переходов, попарным тестированием; иногда таблицей принятия решений и методом вариантов использования;<br>
 - **Тестовые артефакты** – теория и практика составление тест-кейсов, тест-планов, чек-листов, багрепортов и
 улучшений (improvements);<br>
-- **Web** – знаю разницу между Soap и REST, POST, PUT и PATCH, URL и URN, кодами 4xx и 5xx, 403 и 404;<br>
+- **Web** – знаю разницу между Soap и REST, POST, PUT и PATCH, URL и URN, кодами 4xx и 5xx, кодами 403, 404 и 418;<br>
 - **SQL** – умею join’ы и вложенные функции; знаю разницу между ‘where’ и ‘having’, ‘integer’/’numeric’ и ‘float’, ‘join’ и
 ‘union’;<br>
 - **Git** - знаю и умею коммиты, работу с альтернативными ветками, пулл-реквесты, мерджи веток, решение конфликтов коммитов или
