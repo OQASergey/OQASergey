@@ -11,7 +11,7 @@
 	</a>
 </div>
 <div id="resume" align="center">
-	<a href="https://github.com/OQASergey/OQASergey/raw/main/OQASergey's_resume.pdf" download>
+	<a href="https://github.com/OQASergey/OQASergey/raw/main/Olyakov_S_resume.pdf" download>
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/rm.png" Alt="Resume" height="30"/>
 	</a>
 </div>
