@@ -45,6 +45,9 @@
 	<a href="https://www.oracle.com/" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/oracle.png" title="oracle" height="60"/>
 	</a>
+	<a href="https://www.mysql.com/" rel="nofollow">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/mysql.png" title="mysql" height="60"/>
+	</a>	
 	<a href="https://sqlite.org/index.html" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/sqlite.png" title="sqlite" height="60"/>
 	</a>
