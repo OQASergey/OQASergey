@@ -63,12 +63,15 @@
 	<a href="https://github.com/OQASergey" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/github.png" title="github" height="60"/>
 	</a>
-	<a href="https://docs.pytest.org/en/7.4.x/" rel="nofollow">
-		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/pytest.png" title="pytest" height="60"/>
-	</a>
 	<a href="https://www.jetbrains.com/pycharm/" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/pycharm.png" title="pycharm" height="60"/>
 	</a>
+	<a href="https://docs.pytest.org/en/7.4.x/" rel="nofollow">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/pytest.png" title="pytest" height="60"/>
+	</a>
+	<a href="https://github.com/yashaka/selene" rel="nofollow">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/selene.png" title="selene" height="60"/>
+	</a>	
 	<a href="https://www.selenium.dev/documentation/webdriver/" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/selenium.png" title="selenium" height="60"/>
 	</a>
