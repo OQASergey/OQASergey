@@ -74,6 +74,9 @@
 	<a href="https://www.selenium.dev/documentation/webdriver/" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/selenium.png" title="selenium" height="60"/>
 	</a>
+	<a href="https://www.charlesproxy.com/" rel="nofollow">
+		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/charles.png" title="charles" height="60"/>
+	</a>
 	<a href="https://dbeaver.io/" rel="nofollow">
 		<img src="https://github.com/OQASergey/OQASergey/raw/main/pic/dbeaver.png" title="dbeaver" height="60"/>
 	</a>
